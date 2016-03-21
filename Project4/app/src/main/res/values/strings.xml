@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_parkinglot">Parkinglot</string>
+    <string name="title_activity_booked">booked</string>
+    <string name="next">Next</string>
+    <string name="item2">string</string>
+    <string name="item1">item1</string>
+    <string name="login">Login</string>
+    <string name="String">Settings</string>
+    <string name="string1">About Us</string>
+    <string name="wallet">wallet</string>
+    <string name="Wallet">wallet</string>
+    <string name="transactionhistoy">transactionhistory</string>
+    <string name="contactus">contactus</string>
+    <string name="navigation_drawer_open">string15</string>
+    <string name="navigation_drawer_close">string17</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main">string</string>
+
+</resources>

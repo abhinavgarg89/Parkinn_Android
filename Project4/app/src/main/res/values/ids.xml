@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawer_Pane" type="id">string5</item>
+    <item name="drawer_Layout" type="id">string6</item>
+    <item name="nav_list" type="id">string7</item>
+    <item name="nav_myprofile" type="id">string0</item>
+    <item name="action_settings" type="id">string14</item>
+    <item name="drawer_layout" type="id">string16</item>
+    <item name="nav_view" type="id">string18</item>
+</resources>
